@@ -22,11 +22,15 @@ TitsPola is a team of developers building products, internal tooling, and shared
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,py,postgres,redis&theme=dark" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,go,py,graphql&theme=dark" alt="Backend stack"/>
 
-**DevOps & Cloud**
+**Databases & Messaging**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,terraform&theme=dark" alt="DevOps stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka&theme=dark" alt="Database stack"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux&theme=dark" alt="Cloud and DevOps stack"/>
 
 </div>
 
