@@ -10,6 +10,8 @@
 
 TitsPola is a team of developers building products, internal tooling, and shared libraries under one roof. We care about clean architecture, fast iteration, and code that's a pleasure to maintain.
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2d04342-4fb2-4e1d-a23d-19093f4d52e8/djsrdmz-f5bd3298-c05a-4483-8c0a-d42017dec315.png/v1/fill/w_1280,h_2770,q_80,strp/model_sydney_sweeney__by_ljzzzzz1625_djsrdmz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3MCIsInBhdGgiOiIvZi9jMmQwNDM0Mi00ZmIyLTRlMWQtYTIzZC0xOTA5M2Y0ZDUyZTgvZGpzcmRtei1mNWJkMzI5OC1jMDVhLTQ0ODMtOGMwYS1kNDIwMTdkZWMzMTUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-f6f78MpJ2Us_khgyK7ukRpIgLjgDy47afMHk7JNlxU" alt="Typing animation"/>
+
 <br/>
 
 ## Tech Stack
